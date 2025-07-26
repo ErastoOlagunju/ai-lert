@@ -1,0 +1,25 @@
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Node modules or dependencies (in case you use JS/React later)
+node_modules/
+
+# Python cache (in case you use Python later)
+__pycache__/
+*.pyc
+
+# Build/dist directories
+dist/
+build/
+
